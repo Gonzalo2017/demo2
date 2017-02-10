@@ -4,6 +4,7 @@
         suma = Integer.Parse(txt1.Text) + Integer.Parse(txt2.Text)
 
         Label4.text;
+            asdmasldjsal;dm;aslkmd;alksdm
         Label3.Text = suma
 
     End Sub
