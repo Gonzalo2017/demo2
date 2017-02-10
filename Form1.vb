@@ -3,7 +3,7 @@
         Dim suma As Int32
         suma = Integer.Parse(txt1.Text) + Integer.Parse(txt2.Text)
 
-
+        Label4.text;
         Label3.Text = suma
 
     End Sub
